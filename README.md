@@ -1,2 +1,2 @@
-# car-price-prediction-project
-car price prediction project
+# car-prediction-project
+car prediction project
